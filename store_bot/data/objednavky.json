@@ -1,0 +1,80 @@
+{
+  "objednavky": [
+    {
+      "cislo": "1041",
+      "stav": "pripravit",
+      "doprava": "Osobní odběr",
+      "platba": "Kartou online",
+      "polozky": [
+        {
+          "ean": "2001100430009",
+          "ks": 1
+        },
+        {
+          "ean": "2004109000006",
+          "ks": 2
+        }
+      ]
+    },
+    {
+      "cislo": "1042",
+      "stav": "pripravit",
+      "doprava": "Kurýr",
+      "platba": "Převodem",
+      "polozky": [
+        {
+          "ean": "2002100520004",
+          "ks": 1
+        },
+        {
+          "ean": "2005109030000",
+          "ks": 3
+        },
+        {
+          "ean": "2006100090000",
+          "ks": 5
+        }
+      ]
+    },
+    {
+      "cislo": "1043",
+      "stav": "ceka_na_platbu",
+      "doprava": "Výdejní místo",
+      "platba": "Převodem",
+      "polozky": [
+        {
+          "ean": "2003209040004",
+          "ks": 1
+        }
+      ]
+    },
+    {
+      "cislo": "1044",
+      "stav": "odeslana",
+      "doprava": "Kurýr",
+      "platba": "Dobírka",
+      "polozky": [
+        {
+          "ean": "2001400430006",
+          "ks": 1
+        },
+        {
+          "ean": "2006100100006",
+          "ks": 2
+        }
+      ]
+    },
+    {
+      "cislo": "1045",
+      "stav": "zrusena",
+      "doprava": "Osobní odběr",
+      "platba": "Kartou online",
+      "polozky": [
+        {
+          "ean": "2003109020007",
+          "ks": 1
+        }
+      ]
+    }
+  ]
+}

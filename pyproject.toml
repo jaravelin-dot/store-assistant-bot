@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "store-assistant-bot"
+version = "1.0.0"
+description = "Asistent prodejny: dotazy obyčejnou češtinou na sklad, ceny a objednávky, cenovky do PDF. Terminál i Telegram."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "All rights reserved" }
+authors = [{ name = "Jaroslav Velek" }]
+dependencies = ["reportlab>=4.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pypdf>=4"]
+screenshots = ["playwright>=1.40", "pypdfium2>=4"]
+
+[tool.setuptools]
+packages = ["store_bot"]
+
+[tool.setuptools.package-data]
+store_bot = ["data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

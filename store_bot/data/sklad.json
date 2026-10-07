@@ -1,0 +1,331 @@
+{
+  "prodejna": "Ukázková prodejna",
+  "dph_procent": 21,
+  "modely": [
+    {
+      "kod": "UP-110",
+      "nazev": "Pracovní polobotky ZANDRIK S1P",
+      "kategorie": "Pracovní obuv",
+      "cena_s_dph": 1290,
+      "klicova_slova": [
+        "boty",
+        "obuv",
+        "polobotky"
+      ],
+      "karty": [
+        {
+          "velikost": "41",
+          "ean": "2001100410001",
+          "ks": 2
+        },
+        {
+          "velikost": "42",
+          "ean": "2001100420000",
+          "ks": 0
+        },
+        {
+          "velikost": "43",
+          "ean": "2001100430009",
+          "ks": 3
+        },
+        {
+          "velikost": "44",
+          "ean": "2001100440008",
+          "ks": 1
+        },
+        {
+          "velikost": "45",
+          "ean": "2001100450007",
+          "ks": 2
+        }
+      ]
+    },
+    {
+      "kod": "UP-120",
+      "nazev": "Kotníková obuv ZANDRIK S3",
+      "kategorie": "Pracovní obuv",
+      "cena_s_dph": 1590,
+      "klicova_slova": [
+        "boty",
+        "obuv",
+        "kotnikove",
+        "kotnicky"
+      ],
+      "karty": [
+        {
+          "velikost": "42",
+          "ean": "2001200420009",
+          "ks": 1
+        },
+        {
+          "velikost": "43",
+          "ean": "2001200430008",
+          "ks": 0
+        },
+        {
+          "velikost": "44",
+          "ean": "2001200440007",
+          "ks": 2
+        },
+        {
+          "velikost": "45",
+          "ean": "2001200450006",
+          "ks": 1
+        }
+      ]
+    },
+    {
+      "kod": "UP-130",
+      "nazev": "Pracovní sandály ONDRIX S1",
+      "kategorie": "Pracovní obuv",
+      "cena_s_dph": 890,
+      "klicova_slova": [
+        "boty",
+        "obuv",
+        "sandaly",
+        "letni"
+      ],
+      "karty": [
+        {
+          "velikost": "40",
+          "ean": "2001300400000",
+          "ks": 1
+        },
+        {
+          "velikost": "42",
+          "ean": "2001300420008",
+          "ks": 2
+        },
+        {
+          "velikost": "43",
+          "ean": "2001300430007",
+          "ks": 1
+        }
+      ]
+    },
+    {
+      "kod": "UP-140",
+      "nazev": "Holínky PVC TALMO S5",
+      "kategorie": "Pracovní obuv",
+      "cena_s_dph": 690,
+      "klicova_slova": [
+        "boty",
+        "obuv",
+        "holinky"
+      ],
+      "karty": [
+        {
+          "velikost": "41",
+          "ean": "2001400410008",
+          "ks": 0
+        },
+        {
+          "velikost": "43",
+          "ean": "2001400430006",
+          "ks": 4
+        },
+        {
+          "velikost": "45",
+          "ean": "2001400450004",
+          "ks": 2
+        }
+      ]
+    },
+    {
+      "kod": "UK-210",
+      "nazev": "Pracovní kalhoty do pasu TOBRAK",
+      "kategorie": "Pracovní oděvy",
+      "cena_s_dph": 790,
+      "klicova_slova": [
+        "kalhoty",
+        "do pasu"
+      ],
+      "karty": [
+        {
+          "velikost": "48",
+          "ean": "2002100480001",
+          "ks": 2
+        },
+        {
+          "velikost": "50",
+          "ean": "2002100500006",
+          "ks": 3
+        },
+        {
+          "velikost": "52",
+          "ean": "2002100520004",
+          "ks": 0
+        },
+        {
+          "velikost": "54",
+          "ean": "2002100540002",
+          "ks": 1
+        }
+      ]
+    },
+    {
+      "kod": "UK-220",
+      "nazev": "Laclové kalhoty TOBRAK",
+      "kategorie": "Pracovní oděvy",
+      "cena_s_dph": 890,
+      "klicova_slova": [
+        "kalhoty",
+        "lacl",
+        "laclace"
+      ],
+      "karty": [
+        {
+          "velikost": "50",
+          "ean": "2002200500005",
+          "ks": 1
+        },
+        {
+          "velikost": "52",
+          "ean": "2002200520003",
+          "ks": 2
+        },
+        {
+          "velikost": "56",
+          "ean": "2002200560009",
+          "ks": 1
+        }
+      ]
+    },
+    {
+      "kod": "UB-310",
+      "nazev": "Lehká bunda NORVAK",
+      "kategorie": "Pracovní oděvy",
+      "cena_s_dph": 1490,
+      "klicova_slova": [
+        "bunda",
+        "lehka",
+        "jarni"
+      ],
+      "karty": [
+        {
+          "velikost": "M",
+          "ean": "2003109020007",
+          "ks": 2
+        },
+        {
+          "velikost": "L",
+          "ean": "2003109030006",
+          "ks": 1
+        },
+        {
+          "velikost": "XL",
+          "ean": "2003109040005",
+          "ks": 0
+        },
+        {
+          "velikost": "XXL",
+          "ean": "2003109050004",
+          "ks": 1
+        }
+      ]
+    },
+    {
+      "kod": "UB-320",
+      "nazev": "Zimní bunda NORVAK",
+      "kategorie": "Pracovní oděvy",
+      "cena_s_dph": 1990,
+      "klicova_slova": [
+        "bunda",
+        "zimni",
+        "zateplena"
+      ],
+      "karty": [
+        {
+          "velikost": "L",
+          "ean": "2003209030005",
+          "ks": 1
+        },
+        {
+          "velikost": "XL",
+          "ean": "2003209040004",
+          "ks": 2
+        },
+        {
+          "velikost": "3XL",
+          "ean": "2003209060002",
+          "ks": 1
+        }
+      ]
+    },
+    {
+      "kod": "UT-510",
+      "nazev": "Pracovní tričko ZETO",
+      "kategorie": "Pracovní oděvy",
+      "cena_s_dph": 249,
+      "klicova_slova": [
+        "tricko",
+        "triko"
+      ],
+      "karty": [
+        {
+          "velikost": "M",
+          "ean": "2005109020001",
+          "ks": 5
+        },
+        {
+          "velikost": "L",
+          "ean": "2005109030000",
+          "ks": 4
+        },
+        {
+          "velikost": "XL",
+          "ean": "2005109040009",
+          "ks": 3
+        }
+      ]
+    },
+    {
+      "kod": "UV-410",
+      "nazev": "Vesta QUORTA",
+      "kategorie": "Pracovní oděvy",
+      "cena_s_dph": 149,
+      "klicova_slova": [
+        "vesta"
+      ],
+      "karty": [
+        {
+          "velikost": "UNI",
+          "ean": "2004109000006",
+          "ks": 12
+        }
+      ]
+    },
+    {
+      "kod": "UR-610",
+      "nazev": "Máčené rukavice GRIPO",
+      "kategorie": "Pracovní rukavice",
+      "cena_s_dph": 49,
+      "klicova_slova": [
+        "rukavice",
+        "macene"
+      ],
+      "karty": [
+        {
+          "velikost": "8",
+          "ean": "2006100080001",
+          "ks": 10
+        },
+        {
+          "velikost": "9",
+          "ean": "2006100090000",
+          "ks": 14
+        },
+        {
+          "velikost": "10",
+          "ean": "2006100100006",
+          "ks": 0
+        },
+        {
+          "velikost": "11",
+          "ean": "2006100110005",
+          "ks": 6
+        }
+      ]
+    }
+  ]
+}
